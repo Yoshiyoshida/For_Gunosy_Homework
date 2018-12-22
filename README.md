@@ -1,7 +1,8 @@
 # For_Gunosy_Homework
 ## Gunosy課題
-### 必要な技術一覧
+### トレーニング対象の技術一覧
 - スクレイピング
+- dbの利用
 - ナイーブベイズで機械学習(train_test_split)
 - Djangoでまとめる
 - UI/UXの定義づけ
